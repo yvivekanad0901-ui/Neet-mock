@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Copy of  NEET 2026 Full Mock Test (Hindi)",
+  "description": "AI-powered NEET 2026 Full Mock Test (180 Questions). Strictly based on last 10 years PYQ trends and NCERT.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
